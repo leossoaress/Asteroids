@@ -38,7 +38,9 @@ make
 
 If you fallow all instructions, your PC will show these windows: 
 
-![1537580032138](/home/leo/.config/Typora/typora-user-images/1537580032138.png)
+![](/home/leo/Pictures/asteroids.png)
+
+
 
 
 
