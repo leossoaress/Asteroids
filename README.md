@@ -31,3 +31,19 @@ make
 ```
 ./Build/Asteroids
 ```
+
+
+
+## Built With
+
+- [Visual Studio Code](https://code.visualstudio.com/) - Used for code editting.
+
+
+## Authors
+
+- **Leoberto Soares**- [leossoaress](https://github.com/leossoaress)
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/leossoaress/GraphColoring/blob/master/LICENSE.md) file for details
