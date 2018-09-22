@@ -5,7 +5,7 @@
  * 
  * @author Jose Leoberto Soares Filho
  * @version 1.0 19/09/18
- */
+ */ 
 
 #include "includes.hpp"
 #include "asteroid.hpp"
