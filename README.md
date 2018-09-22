@@ -31,18 +31,3 @@ make
 ```
 ./Build/Asteroids
 ```
-
-
-
-### Results
-
-If you fallow all instructions, your PC will show these windows: 
-
-![](/home/leo/Documents/2018.1/CG/Atividades/Asteroids/asteroids.png)
-
-
-
-
-
-
-
